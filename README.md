@@ -1,3 +1,9 @@
+# Noticias React
+
+Proyecto usando React y Hooks consultando una API-Rest de Noticias.
+
+Link al proyecto [Noticias React](https://pedantic-meninsky-a72f81.netlify.com/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,4 +72,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-# noticias-react
+
